@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Muqeeth
 
-<!--
-**abdulmuqeeth-ai/abdulmuqeeth-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
+🤖 AI/ML Researcher specializing in RAG systems and Generative AI
 
-Here are some ideas to get you started:
+## Skills
+- 🧠 RAG Systems | GenAI | LLMs
+- 🐍 Python | LangChain | Hugging Face
+- 🔬 PyTorch | Transformers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+| Category | Technologies |
+|----------|-------------|
+| AI/ML | RAG, LangChain, Hugging Face, Transformers |
+| Languages | Python, SQL |
+| Tools | Git, VS Code, Jupyter |
+
+## Current Focus
+🌱 Building production-ready RAG applications
+🔬 Exploring advanced GenAI architectures
+
+## Social Links
+- GitHub: [@abdulmuqeeth-ai](https://github.com/abdulmuqeeth-ai)
