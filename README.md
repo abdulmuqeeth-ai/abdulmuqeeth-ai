@@ -33,3 +33,13 @@
 
 ### 🤗 Hugging Face GenAI Hackathon
 *Coming soon - RAG based GenAI application*
+
+### 🏎️ F1 Race Results Prediction
+
+**Kaggle Competition**: Formula 1 Race Result Classification Challenge
+
+- **Competition**: [formula-1-race-result-classification-challenge](https://www.kaggle.com/competitions/formula-1-race-result-classification-challenge)
+- **Tech Used**: Python, Classification Algorithms
+- **Submission**: `kaggle competitions submit -c formula-1-race-result-classification-challenge -f submission.csv`
+
+*Predicting F1 race outcomes using machine learning*
