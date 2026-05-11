@@ -21,3 +21,15 @@
 
 ## Social Links
 - GitHub: [@abdulmuqeeth-ai](https://github.com/abdulmuqeeth-ai)
+## Featured Projects
+
+### 🏆 Meta OpenEnv Hackathon
+**Decision Intelligence Environment**
+
+- **GitHub**: [github.com/abdulmuqeeth-1805/openenv-decision-intelligence](https://github.com/abdulmuqeeth-1805/openenv-decision-intelligence)
+- **Live Demo**: [huggingface.co/spaces/abdulmuqeeth-01/decision-intelligence-env](https://huggingface.co/spaces/abdulmuqeeth-01/decision-intelligence-env)
+
+*AI-powered decision intelligence system for OpenEnv Hackathon*
+
+### 🤗 Hugging Face GenAI Hackathon
+*Coming soon - RAG based GenAI application*
